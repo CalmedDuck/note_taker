@@ -31,4 +31,4 @@ Any pull requests need to be looked over and approved before any changes can be 
 ## Questions
 For any additional questions, please reach out to me on:
 - [GitHub](https://github.com/CalmedDuck)
-- Email: b.williams54255@gmail.com
+- Email: b.williams54255@gmail.com 
