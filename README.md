@@ -3,6 +3,10 @@
 ## Description
 An application that writes and saves notes. Uses express.js and retrives note data.
 
+
+![Alt Text](\Develop\images\applicationscreenshot.png)
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
